@@ -11,3 +11,4 @@ File 9-firstdirdeletion deletes the dirctory my_first_directory that is in the /
 File 10-back writes a script that changes the working directory to the previous one
 File 11-lists write a script that lists all files (even the ones with names beginning with a period character, which are normally hidden) in the current directory and the /boot directory in long format
 File 12-file_type writes a script that prints the type of the file named iamafile
+File 13-symbolic_link create a symbolic link to /bin/ls name __ls__
