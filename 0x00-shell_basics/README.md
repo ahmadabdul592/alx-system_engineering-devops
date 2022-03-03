@@ -13,3 +13,4 @@ File 11-lists write a script that lists all files (even the ones with names begi
 File 12-file_type writes a script that prints the type of the file named iamafile
 File 13-symbolic_link create a symbolic link to /bin/ls name __ls__
 File 14-copy_html create a scrript that copies all the HTML file from the current directory, but only cop files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+File 100-lets_move create a script that moves all files beginning with an upper case letter to the directory /tmp/u
