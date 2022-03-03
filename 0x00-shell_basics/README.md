@@ -16,3 +16,4 @@ File 14-copy_html create a scrript that copies all the HTML file from the curren
 File 100-lets_move create a script that moves all files beginning with an upper case letter to the directory /tmp/u
 File 101-clean_emacs creates a script that deletes all files in the current working directory that end with the character ~
 File 102-tree create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+File 103-commas writes a command that lists all the files and directories of the current directory separed by commas(,)
