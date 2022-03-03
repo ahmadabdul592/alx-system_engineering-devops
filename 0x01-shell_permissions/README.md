@@ -12,4 +12,5 @@ File 10-mirroe_permissions create a script that sets the moe of the file hello t
 File 11-directories_permissions create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 File 12-directory_permissions create script that create a directory called my_dir with permissions 751 in the working directory
 File 13-change_group create a script that changes the group owner to shool from the file hello
-File 100-change_owner_and_group creates a script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory            
+File 100-change_owner_and_group creates a script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory
+File 101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to vincent and staff respectively             
