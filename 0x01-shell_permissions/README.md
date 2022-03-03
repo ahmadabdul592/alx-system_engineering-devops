@@ -4,4 +4,5 @@ File 2-groups creates a script that prints all the groups the current user is pa
 File 3-new_owner creates a script that changes the owner of the file hello to the user betty
 File 4-empty create a script that create an empty file called hello
 File 5-execute create a script that adds execute permission to the owner of the file hello
-File 6-multiple_permissions creates a script  that add execute permission to the owner, the group owner and read permission to  other users, to the file hello   
+File 6-multiple_permissions creates a script  that add execute permission to the owner, the group owner and read permission to  other users, to the file hello
+File 7-everybody create a script that adds execution permission tothe owner, the group owner andthe other users to the file hello    
