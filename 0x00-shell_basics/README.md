@@ -15,3 +15,4 @@ File 13-symbolic_link create a symbolic link to /bin/ls name __ls__
 File 14-copy_html create a scrript that copies all the HTML file from the current directory, but only cop files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 File 100-lets_move create a script that moves all files beginning with an upper case letter to the directory /tmp/u
 File 101-clean_emacs creates a script that deletes all files in the current working directory that end with the character ~
+File 102-tree create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
