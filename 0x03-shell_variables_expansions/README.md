@@ -11,4 +11,5 @@ File 9-divide_and_rule is a script that print result of POWER divided by DIVIDE 
 File 10-love_exponent_breath is a script that display the result of BREAYH to the power LOVE
 File 11-binary_to_decimal is a script that convert a number from base 2 to base 10
 File 12-combinations is a script that prints all possible combinations of two letters except oo
-File 13-print_float is a script that print a number with two decimal places               
+File 13-print_float is a script that print a number with two decimal places
+File 100-decimal_to_hexadecimal is a script that convert a number from base 10 to base 16                
