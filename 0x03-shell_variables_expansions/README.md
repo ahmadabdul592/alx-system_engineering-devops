@@ -8,4 +8,5 @@ File 6-crate_local_variable is a script that creates a new local variable
 File 7-create_global_variable is a script that create a new global variable
 File 8-true_knowledge is a script that print the result of the addition of 128 with thw value stored in the environment variable TRUEKNOWLEDGE followe by a new line
 File 9-divide_and_rule is a script that print result of POWER divided by DIVIDE followed by a new line
-File 10-love_exponent_breath is a script that display the result of BREAYH to the power LOVE            
+File 10-love_exponent_breath is a script that display the result of BREAYH to the power LOVE
+File 11-binary_to_decimal is a script that convert a number from base 2 to base 10             
