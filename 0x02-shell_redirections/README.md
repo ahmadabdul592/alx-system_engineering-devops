@@ -7,4 +7,5 @@ File 5-firstlines displays  the first 10 lines of /etc/passwd
 File 6-third_line is a script that displays the third line in a file iacta
 File 7-file is a script that creates a file named exactly \*\\'" Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 File 8-cwd_state is a script that writes into the file ls_cwd_content the result of the command ls -la
-File 9-duplicate_last_line is a script that duplicate the last line of the file iacta         
+File 9-duplicate_last_line is a script that duplicate the last line of the file iacta
+File 10-no_more_js is a script that counts the number of directories and sub directories in the current directory        
