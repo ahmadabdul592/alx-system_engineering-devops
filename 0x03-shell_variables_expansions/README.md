@@ -7,4 +7,5 @@ File 5-local_variables is a script that lists all local variables and environmen
 File 6-crate_local_variable is a script that creates a new local variable
 File 7-create_global_variable is a script that create a new global variable
 File 8-true_knowledge is a script that print the result of the addition of 128 with thw value stored in the environment variable TRUEKNOWLEDGE followe by a new line
-File 9-divide_and_rule is a script that print result of POWER divided by DIVIDE followed by a new line           
+File 9-divide_and_rule is a script that print result of POWER divided by DIVIDE followed by a new line
+File 10-love_exponent_breath is a script that display the result of BREAYH to the power LOVE            
