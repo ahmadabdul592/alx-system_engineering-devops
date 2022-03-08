@@ -4,4 +4,5 @@ File 2-path is a script that adds /action to the PATH
 File 3-paths is a script that counts the number of directories in the PATH
 File 4-global_variables is a script that lists environmental variables
 File 5-local_variables is a script that lists all local variables and environment variables and function
-File 6-crate_local_variable is a script that creates a new local variable       
+File 6-crate_local_variable is a script that creates a new local variable
+File 7-create_global_variable is a script that create a new global variable        
