@@ -5,4 +5,5 @@ File 3-paths is a script that counts the number of directories in the PATH
 File 4-global_variables is a script that lists environmental variables
 File 5-local_variables is a script that lists all local variables and environment variables and function
 File 6-crate_local_variable is a script that creates a new local variable
-File 7-create_global_variable is a script that create a new global variable        
+File 7-create_global_variable is a script that create a new global variable
+File 8-true_knowledge is a script that print the result of the addition of 128 with thw value stored in the environment variable TRUEKNOWLEDGE followe by a new line         
