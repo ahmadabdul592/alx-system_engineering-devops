@@ -20,4 +20,5 @@ File 18-letteronly is a shell that display all lines of the file /etc/ssh/sshd_c
 File 19-AZ is a script that replace all characters A and c from input to  Z and e respectively
 File 20-hiago is a script that removes all letters c and C from input
 File 21-reverse is a script that reverse its input
-File 22-users_and_homes is a script that display all users and their home directories, sorted by users                   
+File 22-users_and_homes is a script that display all users and their home directories, sorted by users
+File 100-empty_casks is a script that finds all empty files and directories in the current directories and sub directories                    
