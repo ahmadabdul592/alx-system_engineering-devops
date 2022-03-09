@@ -13,4 +13,5 @@ File 11-directories is a script that counts the number of directories and sub-di
 File 12-newest_files is a script that display the 10 newest files in the current directory
 File 13-unique is a script that takes a list of words as input and prints only that exactly once
 File 14-findthatword is a script that display lines containing the pattern "root" from the file /etc/passwd
-File 15-countthatword is a script that display the number of lines that contain the pattern "bin" in the file /etc/passwd            
+File 15-countthatword is a script that display the number of lines that contain the pattern "bin" in the file /etc/passwd
+File 16-whatsnext is a script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd             
