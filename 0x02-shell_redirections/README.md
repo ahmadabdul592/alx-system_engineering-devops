@@ -17,4 +17,5 @@ File 15-countthatword is a script that display the number of lines that contain 
 File 16-whatsnext is a script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 File 17-hidethisword is a script that display all lines in the file /etc/passwd that do not contain the pattern "bin"
 File 18-letteronly is a shell that display all lines of the file /etc/ssh/sshd_config starting with a letter
-File 19-AZ is a script that replace all characters A and c from input to  Z and e respectively                
+File 19-AZ is a script that replace all characters A and c from input to  Z and e respectively
+File 20-hiago is a script that removes all letters c and C from input                 
