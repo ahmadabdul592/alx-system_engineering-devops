@@ -10,4 +10,5 @@ File 8-cwd_state is a script that writes into the file ls_cwd_content the result
 File 9-duplicate_last_line is a script that duplicate the last line of the file iacta
 File 10-no_more_js is a script that deletes all the regular files not the directories wit a .js extension that are present in the current directoryand all its subfolders
 File 11-directories is a script that counts the number of directories and sub-directories in the current directory
-File 12-newest_files is a script that display the 10 newest files in the current directory         
+File 12-newest_files is a script that display the 10 newest files in the current directory
+File 13-unique is a script that takes a list of words as input and prints only that exactly once          
