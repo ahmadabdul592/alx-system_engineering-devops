@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # List current running processing
 
-ps -uH 
+ps -faux 
