@@ -50,7 +50,7 @@ Upstart script to keep the application running on server reboots.
 
 ## Authors :black_nib:
 
-- [Abdul Ahmed Abdul][(https://www.linkedin.com/in/abdul-ahmad-38942b99)] | [Twitter](https://twitter.com/abdulahmad829) | [GitHub](https://github.com/ahmadabdul59)
+- [Abdul Ahmed Abdul](https://www.linkedin.com/in/abdul-ahmad-38942b99) | [Twitter](https://twitter.com/abdulahmad829) | [GitHub](https://github.com/ahmadabdul59)
 
 
 
